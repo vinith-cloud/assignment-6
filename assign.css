@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523);
+    background-repeat: no-repeat;
+    color: #fff;
+    background-position: center;
+    background-size: cover;
+}
+.container h1{
+    text-align: center;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+}
+.para1{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 22%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: orangered;
+    color: white;
+    cursor: pointer;  
+}
+.container h6{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    text-decoration: underline;
+}
+
